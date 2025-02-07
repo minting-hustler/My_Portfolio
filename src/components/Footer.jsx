@@ -13,17 +13,17 @@ function Footer() {
           <div className="w-3/5 h-1/5 grid grid-cols-5 gap-4">
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/1_HTML.png"
+              src="public/asset/1_HTML.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/2_CSS.png"
+              src="public/asset/2_CSS.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/3_JS.png"
+              src="public/asset/3_JS.jpg"
               alt=""
             />
             <img
