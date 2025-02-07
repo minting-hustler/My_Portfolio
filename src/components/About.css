@@ -1,0 +1,16 @@
+.read-more-button {
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.read-more-button div {
+  transition: background-color 0.5s ease;
+}
+
+.read-more-button:hover {
+  background-color: white;
+  color: black;
+}
+
+.read-more-button:hover div {
+  background-color: black;
+}
