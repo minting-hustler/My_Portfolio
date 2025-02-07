@@ -5,7 +5,7 @@ function Facerecognition() {
     <div>
       <div className="w-full bg-white h-full flex flex-col items-center">
         <div className=" h-2/5 align-center">
-          <img src="public\asset\face_detection_image.png" alt="" />
+          <img src="public/asset/face_detection_image.png" alt="" />
         </div>
         <div className="w-full flex flex-col items-center">
           <div className="w-2/5 font-title ">

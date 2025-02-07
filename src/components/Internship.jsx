@@ -80,7 +80,7 @@ function Internship() {
             <div className="card w-full h-full rounded-xl bg-white overflow-hidden flex items-center justify-center">
               <img 
                 className=" w-4/5 max-h-full object-contain" 
-                src="public\asset\amazon_summer_School_1.png" 
+                src="/asset/amazon_summer_School_1.png" 
                 alt="" 
               />
             </div>

@@ -13,109 +13,109 @@ function Footer() {
           <div className="w-3/5 h-1/5 grid grid-cols-5 gap-4">
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/1_HTML.jpg"
+              src="asset/1_HTML.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/2_CSS.jpg"
+              src="asset/2_CSS.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/3_JS.jpg"
+              src="asset/3_JS.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/4_Figma.jpg"
+              src="asset/4_Figma.jpg"
               alt=""
             />
             <img
               className="w-20
               
               h-20 object-contain"
-              src="public/asset/5_React.jpg"
+              src="/asset/5_React.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/6_react_native.jpg"
+              src="/asset/6_react_native.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/7_Tailwind.jpg"
+              src="/asset/7_Tailwind.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/8_dart.jpg"
+              src="/asset/8_dart.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/9_cpp.jpg"
+              src="/asset/9_cpp.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/10_django.jpg"
+              src="/asset/10_django.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/11_docker.jpg"
+              src="/asset/11_docker.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/12_firebase.jpg"
+              src="/asset/12_firebase.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/13_git.jpg"
+              src="/asset/13_git.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/14_github.jpg"
+              src="/asset/14_github.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/15_java.jpg"
+              src="/asset/15_java.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/16_mongodb.jpg"
+              src="/asset/16_mongodb.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/17_neo4j.jpg"
+              src="/asset/17_neo4j.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/18_nodejs.jpg"
+              src="/asset/18_nodejs.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/19_python.jpg"
+              src="/asset/19_python.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/20_googlecloud.jpg"
+              src="/asset/20_googlecloud.jpg"
               alt=""
             />
           </div>
         </div>
-        <img className="w-20 h-20" src="public/asset/IITj.png" alt="" />
+        <img className="w-20 h-20" src="/asset/IITj.png" alt="" />
       </div>
 
       <div className='w-1/2 font-["Founders Grotesk X-Condensed"] place-items-end'>
