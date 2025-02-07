@@ -28,89 +28,89 @@ function Footer() {
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/4_Figma.png"
+              src="public/asset/4_Figma.jpg"
               alt=""
             />
             <img
               className="w-20
               
               h-20 object-contain"
-              src="public/asset/5_React.png"
+              src="public/asset/5_React.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/6_react_native.png"
+              src="public/asset/6_react_native.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/7_Tailwind.png"
+              src="public/asset/7_Tailwind.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/8_dart.png"
+              src="public/asset/8_dart.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/9_cpp.png"
+              src="public/asset/9_cpp.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/10_django.png"
+              src="public/asset/10_django.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/11_docker.png"
+              src="public/asset/11_docker.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/12_firebase.png"
+              src="public/asset/12_firebase.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/13_git.png"
+              src="public/asset/13_git.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/14_github.png"
+              src="public/asset/14_github.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/15_java.png"
+              src="public/asset/15_java.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/16_mongodb.png"
+              src="public/asset/16_mongodb.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/17_neo4j.png"
+              src="public/asset/17_neo4j.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/18_nodejs.png"
+              src="public/asset/18_nodejs.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/19_python.png"
+              src="public/asset/19_python.jpg"
               alt=""
             />
             <img
               className="w-20 h-20 object-contain"
-              src="public/asset/20_googlecloud.png"
+              src="public/asset/20_googlecloud.jpg"
               alt=""
             />
           </div>

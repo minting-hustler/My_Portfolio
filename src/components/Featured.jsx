@@ -63,7 +63,7 @@ function Featured() {
               <div className="card w-full h-full rounded-xl bg-white overflow-hidden flex items-center justify-center">
                 <img
                   className="max-w-full max-h-full object-contain"
-                  src="public\asset\software_image.webp"
+                  src="public\asset\software_image.jpg"
                   alt=""
                 />
               </div>
@@ -95,7 +95,7 @@ function Featured() {
                 </h1>
                 <img
                   className="w-full h-half bg-cover bg-center"
-                  src="public\asset\Machine_Learning.jpeg"
+                  src="public\asset\Machine_Learning.jpg"
                   alt=""
                 />
               </div>

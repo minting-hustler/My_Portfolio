@@ -5,7 +5,7 @@ function Amazon() {
     <div>
       <div className="w-full bg-white h-full flex flex-col items-center ">
         <div className="h-2/5 align-center -mt-12">
-          <img src="public\asset\amazon_summer_School.png" alt="" />
+          <img src="public\asset\amazon_summer_School.jpg" alt="" />
         </div>
         <div className="w-full flex flex-col items-center">
           <div className="w-2/5 font-title">
