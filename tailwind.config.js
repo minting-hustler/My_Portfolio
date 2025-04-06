@@ -7,12 +7,14 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily:{
-        title:["Red Hat Display", "serif"],
-        
+      fontFamily: {
+        title: ["Red Hat Display", "serif"],
+        orbitron: ["Orbitron", "sans-serif"], 
+        bebas: ["Bebas Neue", "cursive"],
+        teko: ["Teko", "sans-serif"],
+        ptsans: ["PT Sans Narrow", "sans-serif"],
       },
     },
   },
   plugins: [],
 }
-

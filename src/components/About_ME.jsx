@@ -3,6 +3,7 @@ import React from "react";
 function About_ME() {
   return (
     <div className="max-w-3xl mx-auto p-8 bg-white shadow-lg rounded-lg  text-zinc-700">
+      <img src="" alt="" />
       <h1 className="text-4xl font-bold mb-6">
         A Journey of Adaptability, Innovation, and Passion
       </h1>

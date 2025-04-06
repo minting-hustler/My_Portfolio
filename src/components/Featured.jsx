@@ -26,10 +26,10 @@ function Featured() {
     <div
       data-scroll
       data-scroll-section
-      className="relative w-full py-20 bg-black"
+      className="relative w-full py-20 bg-[#f1efef]"
     >
       <div className="w-full px-20 border-b-[1px] border-zinc-700 pb-20" >
-        <h1 className='text-8xl font-["Neue Montreal"] tracking-tight text-white'>
+        <h1 className='text-8xl font-["Neue Montreal"] tracking-tight text-[#000000]'>
           Projects
         </h1>
       </div>
@@ -43,7 +43,7 @@ function Featured() {
               onClick={() => handleClick('https://github.com/minting-hustler')}
             >
               {/* text-[#864723] */}
-              <h1 className="DEVLOPMENT  absolute flex overflow-hidden left-full text-zinc-600 -translate-x-1/2 top-1/2 -translate-y-1/2 z-[9] text-8xl -mb-10 leading-none tracking-tighter">
+              <h1 className="DEVLOPMENT  absolute flex overflow-hidden left-full text-[#CDEB69] -translate-x-1/2 top-1/2 -translate-y-1/2 z-[9] text-8xl -mb-10 leading-none tracking-tighter">
                 {"DEVLOPMENT".split("").map((item, index) => (
                   <motion.span
                     key={index}
@@ -76,8 +76,8 @@ function Featured() {
               onClick={() => handleClick('https://github.com/minting-hustler')}
             >
               {/* bg-[#CDEA86]  text-[#864723]*/}
-              <div className="card w-full h-full rounded-xl bg-white  overflow-hidden">
-                <h1 className="MACHINELEARNING absolute flex overflow-hidden text-zinc-600 right-full translate-x-1/2 top-1/2 -translate-y-1/2 z-[9] text-8xl -mb-10 leading-none tracking-tighter ">
+              <div className="card w-full h-full rounded-xl bg-white bg-center overflow-hidden">
+                <h1 className="MACHINELEARNING absolute flex overflow-hidden text-[#CDEB69] right-full translate-x-1/2 top-1/2 -translate-y-1/2 z-[9] text-8xl -mb-10 leading-none tracking-tighter ">
                   {"MACHINE LEARNING".split("").map((item, index) => (
                     <motion.span
                       key={index}
@@ -94,7 +94,7 @@ function Featured() {
                   ))}
                 </h1>
                 <img
-                  className="w-full h-half bg-cover bg-center"
+                  className="w-full h-full bg-cover bg-center"
                   src="/asset/Machine_Learning.jpg"
                   alt=""
                 />

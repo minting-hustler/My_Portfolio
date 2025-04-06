@@ -25,11 +25,11 @@ function Eyes() {
       >
         <img
           className="relative w-full h-full bg-cover bg-center"
-          src="/asset/owl image.jpg"
+          src="/asset/owl_bg.jpg"
           alt=""
         />
         <div className="absolute flex gap-10 top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]">
-          <div className=" flex items-center justify-center w-[12vw] h-[12vw] rounded-full bg-white border ">
+          <div className=" flex items-center justify-center w-[12vw] h-[12vw] rounded-full bg-[#e7e7e7] border ">
             <div className="relative w-2/3 h-2/3 rounded-full bg-[#000000]">
               <div
                 style={{

@@ -16,7 +16,7 @@ function About() {
   };
 
   return (
-    <div className='w-full p-20 bg-black rounded-tl-3xl rounded-tr-3xl text-[#ECE9E2]'>
+    <div className='w-full p-20 bg-[#CDEB69] rounded-tl-3xl rounded-tr-3xl text-black'>
       {isAnimating && (
         <>
           <motion.div

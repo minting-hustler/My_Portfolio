@@ -31,7 +31,7 @@ function Internship() {
   };
   
   return (
-    <div data-scroll data-scroll-section className='relative w-full py-20 bg-black'>
+    <div data-scroll data-scroll-section className='relative w-full py-20 bg-[#f1efef]'>
       {isAnimating && (
         <>
           <motion.div
@@ -77,7 +77,7 @@ function Internship() {
                 </motion.span>
               ))}
             </h1>
-            <div className="card w-full h-full rounded-xl bg-white overflow-hidden flex items-center justify-center">
+            <div className="card w-full h-full rounded-xl bg-[#034e58] overflow-hidden flex items-center justify-center">
               <img 
                 className=" w-4/5 max-h-full object-contain" 
                 src="/asset/amazon_summer_School_1.png" 
@@ -92,7 +92,7 @@ function Internship() {
             onClick={handleAfameClick}
             className='cardcontainer relative w-1/2 h-[60vh]'
           >
-            <div className='afame card w-full h-full rounded-xl bg-white overflow-hidden'>
+            <div className='afame card w-full h-full rounded-xl bg-[#ffffff] overflow-hidden'>
               <h1 className=' absolute flex overflow-hidden text-zinc-600 right-full translate-x-1/2 top-1/2 -translate-y-1/2 z-[9] text-8xl -mb-10 leading-none tracking-tighter'>
                 {"EXPEREINCE".split('').map((item, index) => (
                   <motion.span 

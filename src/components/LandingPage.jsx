@@ -9,30 +9,35 @@ function LandingPage() {
       data-scroll
       data-scroll-section
       data-scroll-speed="-.3"
-      className="w-full h-screen  bg-black text-white pt-1"
+      className="w-full h-screen font-ptsans bg-[#e6e5e5] text-black font-semibold tracking-tighter pt-1"
     >
-      <div className="textstructure mt-52 px-20">
-        {["Welcome All", "My Name", "Is Nikhil Kumar"].map((item, index) => {
-          return (
-            <div key={index} className="masker  ">
-              <div className="w-fit flex items-end  ">
-                {index === 1 && (
-                  <motion.div
-                    initial={{ width: 0 }}
-                    animate={{ width: "9vw" }}
-                    transition={{ ease: [0.76, 0, 0.24, 1], duration: 1 }}
-                    className=" mr-[1vw] w-[8vw] rounded-md h-[5vw] top-[1.2vw] relative flex overflow-hidden  "
-                  >
-                    <img src="asset\pushing.jpg" alt="" />
-                  </motion.div>
-                )}
-                <h1 className='pt-[2vw] -mb-[1vw] uppercase text-[6.5vw] leading-[.75] font-["Founders Grotesk X-Condensed"] '>
-                  {item}
-                </h1>
+      <div className="flex flex-row">
+        <div className="w-2/3 textstructure mt-52 px-20">
+          {["Welcome All", "My Name", "Is Nikhil Kumar"].map((item, index) => {
+            return (
+              <div key={index} className="masker  ">
+                <div className="w-fit flex items-end  ">
+                  {index === 1 && (
+                    <motion.div
+                      initial={{ width: 0 }}
+                      animate={{ width: "9vw" }}
+                      transition={{ ease: [0.76, 0, 0.24, 1], duration: 1 }}
+                      className=" mr-[1vw] w-[8vw] rounded-md h-[5vw] top-[1.2vw] relative flex overflow-hidden  "
+                    >
+                      <img src="asset\pushing.jpg" alt="" />
+                    </motion.div>
+                  )}
+                  <h1 className='pt-[2vw] -mb-[1vw] uppercase text-[6.5vw] leading-[.75] font-["Founders Grotesk X-Condensed"] '>
+                    {item}
+                  </h1>
+                </div>
               </div>
-            </div>
-          );
-        })}
+            );
+          })}
+        </div>
+        <div className="w-1/3 h-1/2">
+          <img src="/asset/ghibli_1.png" alt="" />
+        </div>
       </div>
       <div className="border-t-[1px] border-zinc-700 mt-20 flex justify-between items-center py-5 px-20">
         {["Indian Instiute Of Technology Jodhpur ", "Chemical Engineering"].map(

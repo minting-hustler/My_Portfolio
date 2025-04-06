@@ -15,7 +15,7 @@ function Cards() {
   };
 
   return (
-    <div className="w-full h-screen bg-black flex items-center px-32 gap-5">
+    <div className="w-full h-screen bg-[#F1EFEF] flex items-center px-32 gap-5">
       {isAnimating && (
         <>
           <motion.div
@@ -57,7 +57,7 @@ function Cards() {
       </div>
       <div className="cardcontainer-2 flex gap-5 h-[50vh] w-3/5">
         <div
-          className="crap relative rounded-xl w-1/2 h-full bg-[#575757] flex items-center justify-center cursor-pointer"
+          className="crap relative rounded-xl w-1/2 h-full bg-[#74ac34] flex items-center justify-center cursor-pointer"
           onClick={() => handleCardClick("/reinforcementlearning")}
         >
           <img
@@ -70,7 +70,7 @@ function Cards() {
           </button>
         </div>
         <div
-          className="crap relative rounded-xl w-1/2 h-full bg-[#969696] flex items-center justify-center cursor-pointer"
+          className="crap relative rounded-xl w-1/2 h-full bg-[#59cc6c] flex items-center justify-center cursor-pointer"
           onClick={() => handleCardClick("/formula1")}
         >
           <img

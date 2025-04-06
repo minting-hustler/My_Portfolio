@@ -4,7 +4,7 @@ import { Link as ScrollLink } from "react-scroll";
 
 function Navbar() {
   return (
-    <div className='fixed z-[999] w-full px-20 py-8 text-white font-["Neue Montral"] flex justify-between items-center'>
+    <div className='fixed z-[999] w-full px-20 py-8 text-black font-["Neue Montral"] flex justify-between items-center'>
       <div className="logo">
         <img className='w-15 h-16'src="/asset/IITj.png" alt="" />
       </div>
